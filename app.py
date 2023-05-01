@@ -63,3 +63,5 @@ if st.button('Predict'):
     else:
         st.header("Not Spam")
             
+            
+#### run the website with command: streamlit run app.py            
